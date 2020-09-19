@@ -1,0 +1,5 @@
+com\monthly\statementprocessor\processor\CsvProcessorTest.class
+com\monthly\statementprocessor\processor\XmlProcessorTest.class
+com\monthly\statementprocessor\service\StatementProcessorServiceTest.class
+com\monthly\statementprocessor\controller\StatementProcessorControllerTest.class
+com\monthly\statementprocessor\validator\StatementValidatorTest.class
